@@ -15,6 +15,7 @@ public class Main {
 
         Animal[] animals = {cow1, cow2, cow3, hors1, hors2, hors3, sheep1, sheep2, sheep3};
 
+
         Cow[] cows = new Cow[3];
         Hors[] hors = new Hors[3];
         Sheep[] sheep = new Sheep[3];
