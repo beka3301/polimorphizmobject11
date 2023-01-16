@@ -4,6 +4,7 @@ public class Main {
         Animal cow2 = new Cow("Уй2", 6);
         Animal cow3 = new Cow("Уй3", 8);
 
+
         Animal hors1 = new Hors("Ат1", 5);
         Animal hors2 = new Hors("Ат2", 8);
         Animal hors3 = new Hors("Ат3", 7);
