@@ -1,0 +1,12 @@
+public  abstract class Animal {
+    abstract void gives();
+
+    String name;
+    int age;
+
+    public Animal(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+}
